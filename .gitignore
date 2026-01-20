@@ -1,0 +1,13 @@
+Simulation artifacts
+work/sim/.simvision/
+work/sim/cov_work/
+work/sim/html_*/
+work/sim/waves.shm/
+work/sim/xcelium.d/
+work/sim/vmgr_merge_logs/
+
+# Log files
+*.log
+work/sim/xrun.history
+work/sim/xrun.key
+work/sim/vmanager.key
